@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Speed Math</string>
+    <string name="title">Titre : %s, age : %d</string>
+    <string name="validate">OK</string>
+    <string name="start">Start</string>
+    <string name="score">Score : %d</string>
+    <string name="timeless">Time Less : %s</string>
+
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+</resources>
